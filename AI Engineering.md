@@ -1,1 +1,1 @@
-https://vinix.inproviszon.st/main/secure/f013f51afeb59b5dfb9f2e9094fc4c0686910047a4df54386204d3afa84ac312/1784032160/fox-sports-501.m3u8
+https://vinix.inproviszon.st/main/secure/6dc35fa26c3d6e7104b6c26b9d9bc1c3064e13e2b2b0779823bd62fa39faea69/1784032390/skysport1-nz.m3u8
